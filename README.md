@@ -14,19 +14,14 @@ TryHackMe Challenges to sharpen problem-solving skills
 
 Cybersecurity Projects exploring real-world vulnerabilities
 
-Key Interests:
+**Key Interests:**
+	● Network Security
+	● Vulnerability Assessment
+	● Penetration Testing
+	● Threat Analysis
+	● Bug Bounty Hunting
 
-  ● Network Security
-
-  ● Vulnerability Assessment
-
-  ● Penetration Testing
-
-  ● Threat Analysis
-
-  ● Bug Bounty Hunting
-
-Projects
+Projects:
 
   1. Penetration Testing LabA custom home lab simulating real-world cybersecurity environments.Tools: Kali Linux, Metasploit, Burp Suite, Wireshark
 
@@ -34,11 +29,11 @@ Projects
 
   3. Vulnerability Assessment ReportConducted detailed vulnerability assessments using Nmap and Nessus, with comprehensive risk analysis and mitigation strategies.
 
-Skills Snapshot
+Skills Snapshot:
 
-  Tools: Kali Linux, Wireshark, Burp Suite, Metasploit, Nmap
+  Tools - Kali Linux, Wireshark, Burp Suite, Metasploit, Nmap
 
-  Languages: Python (for scripting & automation), C++, Java
+  Languages - Python (for scripting & automation), C++, Java
 
-  Certifications: CompTIA Security+, CISSP (in progress)
+  Certifications - CompTIA Security+, CISSP (in progress)
 
