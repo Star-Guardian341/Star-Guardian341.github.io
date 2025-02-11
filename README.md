@@ -15,11 +15,11 @@ TryHackMe Challenges to sharpen problem-solving skills
 Cybersecurity Projects exploring real-world vulnerabilities
 
 **Key Interests:**
-	● Network Security
-	● Vulnerability Assessment
-	● Penetration Testing
-	● Threat Analysis
-	● Bug Bounty Hunting
+ -  Network Security
+ -  Vulnerability Assessment
+ -  Penetration Testing
+ -  Threat Analysis
+ -  Bug Bounty Hunting
 
 Projects:
 
