@@ -1,39 +1,36 @@
-# Star-Guardian341.github.io
+# Welcome to My Cybersecurity Portfolio
 
-**<h1>***Welcome to My Cybersecurity Portfolio***</h1>**
+Hi, I'm Christopher — a Software Engineer with a strong foundation in cybersecurity. I specialize in threat detection, vulnerability assessment, and network defense. I’m actively applying my development experience to create tools and simulate real-world cyber scenarios.
 
-Hello, I'm Christopher, a passionate cybersecurity enthusiast with a focus on cybersecurity principles grounded in Security+ and CISSP fundamentals. I'm continuously expanding my knowledge in areas like penetration testing, network defense, and risk management.
+---
 
-<h2>About Me</h2>
+## 🧭 Professional Background
 
-Currently preparing for the CISSP certification, while honing my skills through:
+- **Current Role**: Software Engineer focused on secure systems and application development  
+- **Education**: Master’s in Cybersecurity | Bachelor’s in Software Development  
+- **Certifications**: CompTIA Security+  
 
-Hands-on Labs for practical experience
+---
 
-TryHackMe Challenges to sharpen problem-solving skills
+## 🔍 Key Interests
 
-Cybersecurity Projects exploring real-world vulnerabilities
+- Threat Detection & Incident Response  
+- Vulnerability Assessment & Risk Management  
+- Penetration Testing & Red Teaming  
+- SIEM Analysis & Log Triage  
+- Python Automation for Cybersecurity
 
-**Key Interests:**
- -  Network Security
- -  Vulnerability Assessment
- -  Penetration Testing
- -  Threat Analysis
- -  Bug Bounty Hunting
+---
 
-Projects:
+## 🛠️ Tools & Skills
 
-  1. Penetration Testing LabA custom home lab simulating real-world cybersecurity environments.Tools: Kali Linux, Metasploit, Burp Suite, Wireshark
+**Tools**: Kali Linux, Nmap, Nessus, Metasploit, Wireshark, Burp Suite  
+**Languages**: Python, Java, C++  
+**Other Skills**: Git, Linux, Secure Coding, TryHackMe Labs
 
-  2. TryHackMe ChallengesCompleted rooms focused on web application security, network exploitation, and privilege escalation.
+---
 
-  3. Vulnerability Assessment ReportConducted detailed vulnerability assessments using Nmap and Nessus, with comprehensive risk analysis and mitigation strategies.
+## 📁 Projects
 
-Skills Snapshot:
-
-  Tools - Kali Linux, Wireshark, Burp Suite, Metasploit, Nmap
-
-  Languages - Python (for scripting & automation), C++, Java
-
-  Certifications - CompTIA Security+, CISSP (in progress)
+## -Placeholder
 
