@@ -32,5 +32,3 @@ Hi, I'm Christopher — a Software Engineer with a strong foundation in cybersec
 
 ## 📁 Projects
 
-## -Placeholder
-
